@@ -5,7 +5,7 @@ PyTorch-Lightning implementation of DINO: **Emerging Properties in Self-Supervis
 
 
 ### Installation
-Please install [PyTorch](https://pytorch.org/) and download the [ImageNet](https://imagenet.stanford.edu/) dataset.
+Please install [PyTorch](https://pytorch.org/) and download the [ImageNet](https://imagenet.stanford.edu/) and [Imagenette](https://github.com/fastai/imagenette) datasets.
 
 For dependency management, Poetry was used. To install dependencies run `poetry install`.
 
